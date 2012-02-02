@@ -15,9 +15,10 @@ Gem::Specification.new do |s|
     also a small Ruby library designed to make the Public Suffix List
     (http://publicsuffix.org/) easier to use.
   DESCRIPTION
-  s.homepage = %q{http://github.com/toddsundsted/Public-Suffix-List}
-  s.authors = ["Todd Sundsted"]
-  s.version = "0.1.1"
+  s.homepage = %q{http://github.com/moeffju/Public-Suffix-List}
+  s.authors = ["Todd Sundsted", "Matthias Bauer"]
+  s.email = "moeffju@moeffju.net"
+  s.version = "0.1.2"
   s.rubygems_version = %q{1.3.5}
   s.require_paths = ["lib"]
   s.files = [
